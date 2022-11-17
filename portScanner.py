@@ -3,7 +3,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: PortScan python.                                         ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 0.1                                                       ##
 ## CREATION DATE: 03/06/2022                                          ##
 ##                                                                    ##
